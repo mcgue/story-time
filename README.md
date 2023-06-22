@@ -1,3 +1,4 @@
 # story-time
 Simple Mad Libs game
-### Status: check if complete
+Status: Finished
+Future: Handle if user doesn't enter anything
