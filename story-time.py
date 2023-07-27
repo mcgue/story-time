@@ -1,4 +1,5 @@
 # Story time game (similar to MadLibs) to create a one sentence story
+# adding a line to verify git working
 
 # Start game with question to generate input (first noun)
 print('Hello! Let\'s build a story. First, choose a person by first name:')
